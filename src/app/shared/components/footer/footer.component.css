@@ -1,0 +1,13 @@
+footer {
+ padding-top: 60px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ font-family: 'Montserrat', sans-serif;
+}
+
+footer span {
+ font-size: 12px;
+ padding-bottom: 10px;
+}
