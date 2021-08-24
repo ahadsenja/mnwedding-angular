@@ -1,0 +1,17 @@
+.wedding-event {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ padding-top: 60px;
+}
+
+.wedding-event h2 {
+ font-family: 'Sacramento', cursive;
+ font-size: 38px;
+ padding-top: 10px;
+}
+
+.wedding-event .row {
+ padding-top: 40px;
+}
